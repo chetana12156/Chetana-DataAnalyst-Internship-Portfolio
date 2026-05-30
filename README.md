@@ -10,7 +10,7 @@ The project covers the complete analytics lifecycle, from data cleaning and prep
 
 ## Dashboard Preview
 
-![Customer Segmentation Dashboard](dashb.png)
+![Customer Segmentation Dashboard](https://github.com/chetana12156/Customer-Analytics-Insights/blob/main/dashb.png)
 
 ---
 
